@@ -1,0 +1,39 @@
+.bb_logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.logo {
+  height: 200px;
+  width: 200px;
+}
+
+.section_1 {
+  text-align: center;
+  font-size: 100px;
+  font-weight: 900;
+}
+.section_2 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 25px;
+  font-weight: 200;
+}
+.section_3 {
+  text-align: center;
+  margin-top: 25px;
+}
+.wen {
+  width: 150px;
+  height: 50px;
+  color: white;
+  background-color: black;
+  border: 0;
+  font-size: 15px;
+}
+body {
+  font-family: "Your Font Name", sans-serif;
+}
